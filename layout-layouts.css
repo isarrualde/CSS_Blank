@@ -1,0 +1,19 @@
+/*
+THIS IS AN EXAMPLE
+PLEASE IMPORT PARTICULAR LAYOUT STYLESHEETS THIS WAY
+ONE EXTRA LAYOUT FILE PER SPECIFIC LAYOUT
+*/
+@import url "layouts/lyt-layoutName.css";
+
+/* @group [teaser list] */
+/* @end [teaser list] */
+
+/*
+
+[CONTENTS]
+Use this index to quickly locate the styles applied to different content blocks.
+
++ [INDEX]
+	+ [EXAMPLE]
+
+*/

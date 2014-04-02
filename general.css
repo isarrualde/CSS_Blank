@@ -1,0 +1,40 @@
+/* @group [teaser list] */
+/* @end [teaser list] */
+
+/*
+
+[CONTENTS]
+Use this index to quickly locate the styles applied to different content blocks.
+
++ [INDEX]
+	+ [GENERAL CLASSES]
+	+ [GENERAL LAYOUT]
+
+*/
+
+
+/* @group [GENERAL CLASSES] */
+.clearBoth { /* For clearing floats */
+	clear:both; 
+	height:0px;
+	margin:0; 
+	padding:0; 
+	font-size:0%;
+	line-height:0px; 
+}
+.hiddenContent { /* For alternate content for screen readers */
+	position:absolute;
+ 	left:0px;
+ 	top:-2000px;
+	width:1px;
+ 	height:1px;
+ 	overflow:hidden;	
+}
+/* @end [GENERAL CLASSES] */
+
+/* @group [GENERAL LAYOUT] */
+body {
+	font-size: 76%; 	/* Don't change this size or this height. */
+	line-height: 1em;   /* Change them below at #container */
+}
+/* @end [GENERAL LAYOUT] */

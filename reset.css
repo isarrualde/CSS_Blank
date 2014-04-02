@@ -1,0 +1,10 @@
+h1,h2,h3,h4,h5,h6,pre,code,table,td,th,dd,dt,dl,li,input,button,select,textarea{ font-size: 100%; }
+ul,ol,h1,h2,h3,h4,h5,h6,pre,form,body,html,p,blockquote,fieldset,input,td { margin:0; padding:0; }
+a img, :link img, :visited img { border:none }
+table {border-collapse: collapse; }
+input,button,select,textarea {font-family: inherit;}
+input, select { vertical-align:middle; }
+hr { display: none; }
+a img { display:block; }
+li{margin:0px; padding:0px;-height:0px;list-style:none;}
+
